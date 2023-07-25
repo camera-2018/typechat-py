@@ -1,0 +1,10 @@
+将下面这段JSON数据变成一个表格
+[{
+	"label": "aaa1",
+	"value": "http://baidu.com",
+	"number": "1"
+},{
+	"label": "ccc2",
+	"value": "http://baidu.com",
+	"number": "2"
+}]
